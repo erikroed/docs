@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "ada91a317ceabe89",
+    "type": "split",
+    "children": [
+      {
+        "id": "a41ee007042e0d00",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "terraform/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd8a830007f3b2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a88afbc5fb93fe59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b14163eaf5c3ebf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60582638f330ded1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e337d1a450fd8c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "right": {
+    "id": "f0054114cabcecef",
+    "type": "split",
+    "children": [
+      {
+        "id": "554a0c5852eca9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cc83d2610554da8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "terraform/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd375df6037d2c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "terraform/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "180851cd0b6bcab8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "606691315e4157ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "terraform/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a41ee007042e0d00",
+  "lastOpenFiles": [
+    "2022-10-06.md"
+  ]
+}
